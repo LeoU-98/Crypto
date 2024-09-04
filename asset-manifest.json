@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/Crypto/static/css/main.d3150cb6.css",
-    "main.js": "/Crypto/static/js/main.e6c11498.js",
+    "main.css": "/Crypto/static/css/main.d5bebb6f.css",
+    "main.js": "/Crypto/static/js/main.3d814603.js",
+    "static/media/51.png": "/Crypto/static/media/51.15ad61ff06405e09d8f6.png",
+    "static/media/41.png": "/Crypto/static/media/41.7a27b14301f891e64c16.png",
+    "static/media/11.png": "/Crypto/static/media/11.84f1f7d4fbeed8ada421.png",
+    "static/media/61.png": "/Crypto/static/media/61.e3174005f767f882d53e.png",
+    "static/media/63.png": "/Crypto/static/media/63.ec819158f4a90e1fb759.png",
+    "static/media/62.png": "/Crypto/static/media/62.cc0946511490f5e436c2.png",
+    "static/media/64.png": "/Crypto/static/media/64.a6b21864c782cabff876.png",
+    "static/media/65.png": "/Crypto/static/media/65.459cdda6083267e6921a.png",
+    "static/media/22.png": "/Crypto/static/media/22.5f68d1df4fcc5b35722c.png",
+    "static/media/21.png": "/Crypto/static/media/21.b250cde86d002f9e5360.png",
+    "static/media/12.png": "/Crypto/static/media/12.ffb221f5bce270838689.png",
     "index.html": "/Crypto/index.html",
-    "main.d3150cb6.css.map": "/Crypto/static/css/main.d3150cb6.css.map",
-    "main.e6c11498.js.map": "/Crypto/static/js/main.e6c11498.js.map"
+    "main.d5bebb6f.css.map": "/Crypto/static/css/main.d5bebb6f.css.map",
+    "main.3d814603.js.map": "/Crypto/static/js/main.3d814603.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3150cb6.css",
-    "static/js/main.e6c11498.js"
+    "static/css/main.d5bebb6f.css",
+    "static/js/main.3d814603.js"
   ]
 }
