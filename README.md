@@ -1,7 +1,6 @@
 # Crypto
 
-Crypto is a frontend web application built with React, focused on presenting data and information through a clean, modern, and visually engaging interface.  
-The project emphasizes clarity, responsiveness, and smooth UI interactions.
+A modern crypto-themed app built to demonstrate my front-end development skills, featuring smooth Framer Motion animations and a refined, responsive UI.
 
 ---
 
